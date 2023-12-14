@@ -62,7 +62,7 @@
   ): it => box(width: 100%)[
     #v(0.5em)
     #set align(left)
-    #set heading(numbering: "一、")
+    #set heading(numbering: "I")
     #it
     #v(0.75em)
   ]
